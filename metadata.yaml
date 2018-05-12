@@ -1,5 +1,8 @@
 _repo: Le-pilote-du-Danube_11484
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -16,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11484#Le-pilote-du-Danube
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
